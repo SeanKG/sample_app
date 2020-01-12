@@ -18,7 +18,7 @@
     invariant "^2.2.4"
     semver "^5.5.0"
 
-"@babel/core@^7.7.2":
+"@babel/core@^7.7.2", "@babel/core@^7.8.0":
   version "7.8.0"
   resolved "https://registry.yarnpkg.com/@babel/core/-/core-7.8.0.tgz#fd273d4faf69cc20ee3ccfd32d42df916bb4a15c"
   integrity sha512-3rqPi/bv/Xfu2YzHvBz4XqMI1fKVwnhntPA1/fjoECrSjrhbOCxlTrbVu5gUtr8zkxW+RpkDOa/HCW93gzS2Dw==
@@ -642,7 +642,7 @@
     "@babel/helper-create-regexp-features-plugin" "^7.8.0"
     "@babel/helper-plugin-utils" "^7.8.0"
 
-"@babel/preset-env@^7.7.1":
+"@babel/preset-env@^7.7.1", "@babel/preset-env@^7.8.0":
   version "7.8.0"
   resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.8.0.tgz#f0a0a353091cb2135e9aea21ed9c4563c51bd31f"
   integrity sha512-g3wnth3Ct+ZvnaHcvb5PQyojqNj0whXTkO7hatXgz+lQ2FphOoXrG1JMIfeaHgDakGzx3LiNe0KsWO69xSVFDA==
