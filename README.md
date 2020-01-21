@@ -19,6 +19,18 @@ To get started with the app, clone the repo and then install the needed gems:
 $ bundle install --without production
 ```
 
+Also needed: imagemagick
+
+On MacOS:
+```
+brew install imagemagick
+```
+
+Or on linux:
+```
+sudo apt-get -y install imagemagick
+```
+
 Next, migrate the database:
 
 ```
